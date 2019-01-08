@@ -1,0 +1,25 @@
+{
+  "name": "tdd-course-js",
+  "version": "1.0.0",
+  "description": "Biblioteca do curso de JS com TDD na prática",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davilmaster/tdd-course-js.git"
+  },
+  "keywords": [
+    "js",
+    "tdd",
+    "library",
+    "test"
+  ],
+  "author": "Dávil André <davilmaster@gmail.com> (https://github.com/davilmaster)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/davilmaster/tdd-course-js/issues"
+  },
+  "homepage": "https://github.com/davilmaster/tdd-course-js#readme"
+}
